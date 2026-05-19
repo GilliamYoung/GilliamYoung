@@ -93,7 +93,6 @@ To obtain a position as a **Tier 1 SOC Analyst** where I can contribute to threa
 <img src="https://img.shields.io/badge/-CompTIA_A%2B-EA3E26?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CompTIA_CySA%2B-005BAC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CompTIA_PenTest%2B-800000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-ISC2_CC-006400?&style=for-the-badge&logoColor=white" />
 </div>
 
