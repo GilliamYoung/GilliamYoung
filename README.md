@@ -93,23 +93,36 @@ To obtain a position as a **Tier 1 SOC Analyst** where I can contribute to threa
 <img src="https://img.shields.io/badge/-CompTIA_A%2B-EA3E26?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CompTIA_CySA%2B-005BAC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CompTIA_PenTest%2B-800000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-ISC2_CC-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CompTIA_CASP%2B-2E8B57?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-ISACA_CISM-003366?&style=for-the-badge&logoColor=white" />
+
 </div>
 
 ---
 
 # 🚨 Featured Projects
 
-## 🔍 Detection Lab
-A hands-on SOC lab focused on:
-- SIEM configuration
-- Threat detection
-- Log analysis
-- Network monitoring
-- Alert investigation
+## 🔍 Active Directory Security Monitoring Lab
+https://github.com/GilliamYoung/Active-Directory-Splunk-Detection-Lab
+
+Built a cloud-based Active Directory security monitoring lab using Windows Server 2022, Ubuntu Server, Splunk Enterprise, Shuffle SOAR, and Slack automation.
+
+- Configured Splunk to ingest and analyze Windows Security Event Logs
+- Simulated suspicious RDP authentication activity
+- Created SIEM detections using Windows Event IDs 4624 and 4625
+- Automated security alert workflows using Shuffle SOAR and Slack
+- Demonstrated hands-on SOC monitoring, detection engineering, and incident response workflows
+
+### 🧰 Technologies Used
+
+<div>
+<img src="https://img.shields.io/badge/-Windows_Server_2022-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-Active_Directory-003366?&style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/-Shuffle_SOAR-6E56CF?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Slack-4A154B?&style=for-the-badge&logo=slack&logoColor=white" />
+</div>
+
 
 ---
 
@@ -120,16 +133,6 @@ Built a SOC automation workflow using:
 - Elastic Stack
 - Automated alert handling
 - Incident response playbooks
-
----
-
-## 🛡️ Cybersecurity Home Lab
-Personal lab environment designed for:
-- Malware analysis
-- Attack simulation
-- Defensive security testing
-- Threat hunting practice
-- Windows & Linux hardening
 
 ---
 
