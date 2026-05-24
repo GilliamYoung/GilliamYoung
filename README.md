@@ -126,13 +126,34 @@ Built a cloud-based Active Directory security monitoring lab using Windows Serve
 
 ---
 
-## ⚡ SOC Automation Project
-Built a SOC automation workflow using:
-- Shuffle SOAR
-- TheHive
-- Elastic Stack
-- Automated alert handling
-- Incident response playbooks
+## ⚡ SOC Automation & Threat Detection Lab
+https://github.com/GilliamYoung/SOC-Automation-Lab-Wazuh-Sysmon-TheHive
+
+Designed and deployed a full SOC automation environment using Wazuh SIEM, Sysmon, TheHive, Shuffle SOAR, VirtualBox, and Vultr cloud infrastructure to simulate enterprise threat detection and incident response workflows.
+
+- Built a Windows 11 endpoint monitoring lab with Sysmon telemetry collection
+- Deployed Wazuh SIEM and TheHive on Ubuntu cloud servers hosted in Vultr
+- Configured Wazuh agents to centralize Windows security and Sysmon logs
+- Developed custom Wazuh detection rules to identify Mimikatz credential dumping activity
+- Mapped detections to MITRE ATT&CK technique T1003 (OS Credential Dumping)
+- Simulated adversary behavior by executing Mimikatz on the monitored endpoint
+- Automated alert triage and incident creation workflows using Shuffle SOAR
+- Integrated Wazuh alerts directly into TheHive for case management and investigation
+- Demonstrated hands-on SIEM engineering, detection engineering, SOC automation, and incident response operations
+
+### 🧰 Technologies Used
+
+<div>
+<img src="https://img.shields.io/badge/-Wazuh-0052CC?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Sysmon-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-TheHive-FFB400?&style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/-Shuffle_SOAR-6E56CF?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
+<img src="https://img.shields.io/badge/-Vultr-007BFC?&style=for-the-badge&logo=vultr&logoColor=white" />
+<img src="https://img.shields.io/badge/-Windows_11-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-MITRE_ATT%26CK-000000?&style=for-the-badge&logoColor=white" />
+</div>
 
 ---
 
