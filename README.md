@@ -99,7 +99,7 @@ To obtain a position as a **Tier 1 SOC Analyst** where I can contribute to threa
 
 ---
 
-# 🚨 Featured Projects
+# 🚨 Cybersecurity Projects
 
 ## 🔍 Active Directory Security Monitoring Lab
 https://github.com/GilliamYoung/Active-Directory-Splunk-Detection-Lab
