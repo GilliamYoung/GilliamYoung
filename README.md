@@ -68,6 +68,14 @@ To obtain a position as a **Tier 1 SOC Analyst** where I can contribute to threa
 
 ---
 
+## 📊 SIEM & Security Operations
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-0052CC?&style=for-the-badge&logoColor=white" />
+</div>
+
+---
+
 ## 💻 Operating Systems & Platforms
 <div>
     <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
