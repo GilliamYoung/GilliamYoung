@@ -48,31 +48,22 @@ To obtain a position as a **Tier 1 SOC Analyst** where I can contribute to threa
 
 # 🧰 Tools & Technologies
 
-## 🌐 Networking & Traffic Analysis
+## 🖥️ Identity & Access Management
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TCPDump-000000?&style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Active_Directory-003366?&style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_Server_2022-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Group_Policy-0A66C2?&style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-RDP-5C2D91?&style=for-the-badge&logo=windows-terminal&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Entra_ID-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
-
 ---
 
-## 🖥️ Endpoint Security & Digital Forensics
+## 🛡️ Endpoint Monitoring & Telemetry
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Sysmon-FF4500?&style=for-the-badge&logo=windows&logoColor=white" />
-</div>
-
----
-
-## 📊 SIEM & Security Operations
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TheHive-F2C811?&style=for-the-badge&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Sysmon-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_Event_Logs-4D4D4D?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk_Forwarder-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh_Agent-0052CC?&style=for-the-badge&logoColor=white" />
 </div>
 
 ---
