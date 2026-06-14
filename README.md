@@ -1,5 +1,5 @@
 # 👋 Hello, I'm GILL  
-### Aspiring Tier 1 SOC Analyst | Cybersecurity Professional | Threat Detection & Incident Response
+### Cybersecurity Professional | Threat Detection & Incident Response
 
 <a href="https://www.linkedin.com/in/gilliam-y-7164912b4/?skipRedirect=true">
 <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -13,7 +13,7 @@
 
 ## 🛡️ About Me
 
-I am a cybersecurity professional with a strong passion for Security Operations, threat detection, incident response, and defensive security. My goal is to begin my career as a **Tier 1 SOC Analyst**, where I can apply my technical skills to monitor, detect, analyze, and respond to cybersecurity threats in real-world environments.
+I am a cybersecurity professional with a strong passion for Security Operations, threat detection, incident response, and defensive security. My goal is to begin my career where I can apply my technical skills to monitor, detect, analyze, and respond to cybersecurity threats in real-world environments.
 
 I currently hold:
 - 🎓 Associate Degree in Cybersecurity  
